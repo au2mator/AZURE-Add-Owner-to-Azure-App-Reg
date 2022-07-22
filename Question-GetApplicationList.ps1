@@ -12,7 +12,7 @@
 #
 #
 #
-# au2mator is happy to support you with your Automation
+# au2mator is happy to support you with Automation! <br>
 # Contact us here: https://au2mator.com/premier-services/?utm_source=github&utm_medium=social&utm_campaign=Azure_AddOwnerAzureAppReg&utm_content=PS1
 #
 #################
